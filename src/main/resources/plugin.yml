@@ -1,0 +1,8 @@
+name: WorldManager
+version: ${project.version}
+main: com.dodecabyte.worlds.worldmanager.WorldManager
+api-version: 1.16
+prefix: dwm
+authors: [Guisti, Dallin]
+description: This plugin controls teleportation and world management for the Dodecabyte Minecraft Server
+website: https://dodecabyte.com
